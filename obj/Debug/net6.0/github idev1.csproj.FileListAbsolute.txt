@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/github idev1/bin/Debug/net6.0/github idev1
+/Users/fatihbasar/Desktop/github idev1/bin/Debug/net6.0/github idev1.deps.json
+/Users/fatihbasar/Desktop/github idev1/bin/Debug/net6.0/github idev1.runtimeconfig.json
+/Users/fatihbasar/Desktop/github idev1/bin/Debug/net6.0/github idev1.dll
+/Users/fatihbasar/Desktop/github idev1/bin/Debug/net6.0/github idev1.pdb
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.dll
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/refint/github idev1.dll
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.pdb
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/github idev1.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/github idev1/obj/Debug/net6.0/ref/github idev1.dll
